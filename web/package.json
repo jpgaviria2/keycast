@@ -22,7 +22,7 @@
 		"svelte-hot-french-toast": "^1.0.0",
 		"tailwindcss": "^4.0.14",
 		"typescript": "^5.8.2",
-		"vite": "6.2.2"
+		"vite": "6.4.5"
 	},
 	"dependencies": {
 		"@nostr-dev-kit/ndk": "^2.12.2",
